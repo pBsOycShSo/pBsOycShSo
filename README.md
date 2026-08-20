@@ -2,7 +2,7 @@
 ![](image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on Nothing<br>👯 I’m looking to collaborate on Nothing<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning Python | PHP | Java | SQL<br>💬 Ask me about NOTHING<br>⚡ Fun fact I am a kid
+🔭 I’m currently working on Nothing<br>👯 I’m looking to collaborate on Nothing<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning Python | PHP | Java | SQL<br>💬 Ask me about NOTHING<br>⚡ Fun fact I am a kid | Not anymore
 
 
 ## 🌐 Socials:
